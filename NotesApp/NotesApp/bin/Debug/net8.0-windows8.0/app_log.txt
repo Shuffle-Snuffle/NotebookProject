@@ -1,0 +1,199 @@
+
+02.07.2025 2:41:55: Путь к папке вложений: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments
+02.07.2025 2:41:55: Найдено файлов во вложениях: 57
+02.07.2025 2:41:55: Проверка вложений для заметки: 1
+02.07.2025 2:41:55: Проверка вложений для заметки: 2
+02.07.2025 2:41:55: Проверка вложений для заметки: 3
+02.07.2025 2:41:55: Проверка вложений для заметки: 4
+02.07.2025 2:41:55: Проверка вложений для заметки: 5
+02.07.2025 2:41:55: Проверка вложений для заметки: 6
+02.07.2025 2:41:55: Проверка вложений для заметки: 7
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\1402fca0f156ad4d46b0a4ef647d6389.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\1402fca0f156ad4d46b0a4ef647d6389.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\1402fca0f156ad4d46b0a4ef647d6389.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\1fc3dd4e3d82ceed799bd6f40c5ba084.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\1fc3dd4e3d82ceed799bd6f40c5ba084.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\1fc3dd4e3d82ceed799bd6f40c5ba084.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\24c93e7a0b8558ad882ae85a15f1863b.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\24c93e7a0b8558ad882ae85a15f1863b.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\24c93e7a0b8558ad882ae85a15f1863b.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\259f43cf1c3d351498fcbd5ca59e85fa.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\259f43cf1c3d351498fcbd5ca59e85fa.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\259f43cf1c3d351498fcbd5ca59e85fa.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\2658966aeb7251004e048c7bd545093e.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\2658966aeb7251004e048c7bd545093e.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\2658966aeb7251004e048c7bd545093e.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\4k-loba-extended-tdontran1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\4k-loba-extended-tdontran1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\4k-loba-extended-tdontran1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\534b2daea7bcc7821fc477bbc4a01fe2.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\534b2daea7bcc7821fc477bbc4a01fe2.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\534b2daea7bcc7821fc477bbc4a01fe2.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\5aaa1c34dcfc9991ef12fbdc6f2b24a6.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\5aaa1c34dcfc9991ef12fbdc6f2b24a6.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\5aaa1c34dcfc9991ef12fbdc6f2b24a6.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\7dcacf8223591370bfc6b57d43368d6b.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\7dcacf8223591370bfc6b57d43368d6b.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\7dcacf8223591370bfc6b57d43368d6b.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\91ec6a4036539e6bfedd1c7dd6b59cf6.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\91ec6a4036539e6bfedd1c7dd6b59cf6.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\91ec6a4036539e6bfedd1c7dd6b59cf6.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\9f8c0329777c26d1a468b66a8b981e9a.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\9f8c0329777c26d1a468b66a8b981e9a.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\9f8c0329777c26d1a468b66a8b981e9a.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\a9192301f46d90c9ded5e47f0642e366.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\a9192301f46d90c9ded5e47f0642e366.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\a9192301f46d90c9ded5e47f0642e366.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\ab34004c05cfac14c69a579ae9d99a75.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\ab34004c05cfac14c69a579ae9d99a75.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\ab34004c05cfac14c69a579ae9d99a75.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\all-aboard-the-octrain-with-loba1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\all-aboard-the-octrain-with-loba1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\all-aboard-the-octrain-with-loba1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\b2c068989cae3ebdbfc3410962b291ce.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\b2c068989cae3ebdbfc3410962b291ce.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\b2c068989cae3ebdbfc3410962b291ce.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\c22b058e562bd77e71f4f234f561f4f4.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\c22b058e562bd77e71f4f234f561f4f4.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\c22b058e562bd77e71f4f234f561f4f4.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\c4735faa1b722a8bb9ca14c3cb9f6081.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\c4735faa1b722a8bb9ca14c3cb9f6081.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\c4735faa1b722a8bb9ca14c3cb9f6081.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\c7acd49dc7489593e7a013a33ccc4c45.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\c7acd49dc7489593e7a013a33ccc4c45.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\c7acd49dc7489593e7a013a33ccc4c45.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\cc0068ff0b9cf67d6f6a33bf0e3e9d51.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\cc0068ff0b9cf67d6f6a33bf0e3e9d51.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\cc0068ff0b9cf67d6f6a33bf0e3e9d51.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\d54c196ef851621e48b4756191407800.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\d54c196ef851621e48b4756191407800.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\d54c196ef851621e48b4756191407800.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\downtime-fun-with-mirage-loba-dzooworks1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\downtime-fun-with-mirage-loba-dzooworks1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\downtime-fun-with-mirage-loba-dzooworks1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\f67835d6a39594e5f2870dbecf128aaf.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\f67835d6a39594e5f2870dbecf128aaf.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\f67835d6a39594e5f2870dbecf128aaf.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\fa1a005a9da28d207edb0e940638aada.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\fa1a005a9da28d207edb0e940638aada.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\fa1a005a9da28d207edb0e940638aada.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\free-icon-notepad-3131636.png
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\free-icon-notepad-3131636.png
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\free-icon-notepad-3131636.png
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\heros-hour-v2.8.1b.torrent
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\heros-hour-v2.8.1b.torrent
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\heros-hour-v2.8.1b.torrent
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\horizon-reaches-a-new-horizon-with-the-rooftop-challenge-full-loop-dzooworks1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\horizon-reaches-a-new-horizon-with-the-rooftop-challenge-full-loop-dzooworks1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\horizon-reaches-a-new-horizon-with-the-rooftop-challenge-full-loop-dzooworks1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\i (5).webp
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\i (5).webp
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\i (5).webp
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\IMG20241025010855.png
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\IMG20241025010855.png
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\IMG20241025010855.png
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-bikini-standing-fuck-dzooworks1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-bikini-standing-fuck-dzooworks1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-bikini-standing-fuck-dzooworks1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-bounce-dzooworks-4k1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-bounce-dzooworks-4k1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-bounce-dzooworks-4k1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-donut-pounding-general-butch1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-donut-pounding-general-butch1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-donut-pounding-general-butch1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-dzooworks1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-dzooworks1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-dzooworks1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-gb-blacked-aanix1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-gb-blacked-aanix1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-gb-blacked-aanix1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-s-gettin-alenabyss1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-s-gettin-alenabyss1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-s-gettin-alenabyss1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-s-special-black-market720p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-s-special-black-market720p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-s-special-black-market720p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-s-tries-the-rooftop-challenge-full-loop-dzooworks1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-s-tries-the-rooftop-challenge-full-loop-dzooworks1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-s-tries-the-rooftop-challenge-full-loop-dzooworks1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-s-unexpected-visitor-dzooworks1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-s-unexpected-visitor-dzooworks1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-s-unexpected-visitor-dzooworks1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-vs-revnant-dzooworks1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-vs-revnant-dzooworks1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-vs-revnant-dzooworks1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-x-valk-dzooworks1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-x-valk-dzooworks1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\loba-x-valk-dzooworks1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\Screenshot 2025-07-01 at 17-18-17 Авторизация.png
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\Screenshot 2025-07-01 at 17-18-17 Авторизация.png
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\Screenshot 2025-07-01 at 17-18-17 Авторизация.png
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\the-best-part-of-waking-up-bangalore-loba-valkyrie-alt-dzooworks1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\the-best-part-of-waking-up-bangalore-loba-valkyrie-alt-dzooworks1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\the-best-part-of-waking-up-bangalore-loba-valkyrie-alt-dzooworks1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\the-sun-s-hot-also-something-else-too-dzooworks-loba-revenant1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\the-sun-s-hot-also-something-else-too-dzooworks-loba-revenant1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\the-sun-s-hot-also-something-else-too-dzooworks-loba-revenant1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\thick-thighs-save-lives-loba-dzooworks1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\thick-thighs-save-lives-loba-dzooworks1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\thick-thighs-save-lives-loba-dzooworks1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\Блокнот Сабылин, Волос.drawio.png
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\Блокнот Сабылин, Волос.drawio.png
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\Блокнот Сабылин, Волос.drawio.png
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\ф_Игра.epf
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\ф_Игра.epf
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\1\ф_Игра.epf
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\16973458011456.jpg
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\16973458011456.jpg
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\16973458011456.jpg
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\17231359324820.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\17231359324820.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\17231359324820.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\17231359393150.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\17231359393150.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\17231359393150.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\17231368687450.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\17231368687450.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\17231368687450.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\2024-08-26-15-43-54-784x622.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\2024-08-26-15-43-54-784x622.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\2024-08-26-15-43-54-784x622.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\38a9f722cd1062ebea15fc262d4693b2.png
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\38a9f722cd1062ebea15fc262d4693b2.png
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\38a9f722cd1062ebea15fc262d4693b2.png
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\a9192301f46d90c9ded5e47f0642e366.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\a9192301f46d90c9ded5e47f0642e366.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\a9192301f46d90c9ded5e47f0642e366.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\free-icon-notepad-3131636.png
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\free-icon-notepad-3131636.png
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\free-icon-notepad-3131636.png
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\image - 2024-08-08T235923.340.png
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\image - 2024-08-08T235923.340.png
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\image - 2024-08-08T235923.340.png
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\the-sun-s-hot-also-something-else-too-dzooworks-loba-revenant1080p.mp4
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\the-sun-s-hot-also-something-else-too-dzooworks-loba-revenant1080p.mp4
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\the-sun-s-hot-also-something-else-too-dzooworks-loba-revenant1080p.mp4
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\Блокнот Сабылин, Волос.drawio.png
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\Блокнот Сабылин, Волос.drawio.png
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\Блокнот Сабылин, Волос.drawio.png
+02.07.2025 2:41:55: Проверка файла на наличие ссылок: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\лука.gif
+02.07.2025 2:41:55: Попытка удалить файл: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\лука.gif
+02.07.2025 2:41:55: Файл удалён: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments\3\лука.gif
+02.07.2025 2:42:16: Путь к папке вложений: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments
+02.07.2025 2:42:16: Найдено файлов во вложениях: 0
+02.07.2025 2:42:16: Проверка вложений для заметки: 1
+02.07.2025 2:42:16: Проверка вложений для заметки: 2
+02.07.2025 2:42:16: Проверка вложений для заметки: 3
+02.07.2025 2:42:16: Проверка вложений для заметки: 4
+02.07.2025 2:42:16: Проверка вложений для заметки: 5
+02.07.2025 2:42:16: Проверка вложений для заметки: 6
+02.07.2025 2:42:16: Проверка вложений для заметки: 7
+02.07.2025 2:42:20: Путь к папке вложений: C:\Users\Snuffle\source\repos\NotesApp\NotesApp\bin\Debug\net8.0-windows8.0\Attachments
+02.07.2025 2:42:20: Найдено файлов во вложениях: 0
+02.07.2025 2:42:20: Проверка вложений для заметки: 1
+02.07.2025 2:42:20: Проверка вложений для заметки: 2
+02.07.2025 2:42:20: Проверка вложений для заметки: 3
+02.07.2025 2:42:20: Проверка вложений для заметки: 4
+02.07.2025 2:42:20: Проверка вложений для заметки: 5
+02.07.2025 2:42:20: Проверка вложений для заметки: 6
+02.07.2025 2:42:20: Проверка вложений для заметки: 7

@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Snuffle\\source\\repos\\NotesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B9E1D-5594-42A0-AFE2-1F733CB346FE}|NotesApp\\NotesApp.csproj|c:\\users\\snuffle\\source\\repos\\notesapp\\notesapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8B9E1D-5594-42A0-AFE2-1F733CB346FE}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B9E1D-5594-42A0-AFE2-1F733CB346FE}|NotesApp\\NotesApp.csproj|c:\\users\\snuffle\\source\\repos\\notesapp\\notesapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D8B9E1D-5594-42A0-AFE2-1F733CB346FE}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B9E1D-5594-42A0-AFE2-1F733CB346FE}|NotesApp\\NotesApp.csproj|c:\\users\\snuffle\\source\\repos\\notesapp\\notesapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D8B9E1D-5594-42A0-AFE2-1F733CB346FE}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B9E1D-5594-42A0-AFE2-1F733CB346FE}|NotesApp\\NotesApp.csproj|c:\\users\\snuffle\\source\\repos\\notesapp\\notesapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8B9E1D-5594-42A0-AFE2-1F733CB346FE}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B9E1D-5594-42A0-AFE2-1F733CB346FE}|NotesApp\\NotesApp.csproj|c:\\users\\snuffle\\source\\repos\\notesapp\\notesapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8B9E1D-5594-42A0-AFE2-1F733CB346FE}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B9E1D-5594-42A0-AFE2-1F733CB346FE}|NotesApp\\NotesApp.csproj|c:\\users\\snuffle\\source\\repos\\notesapp\\notesapp\\services\\notemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8B9E1D-5594-42A0-AFE2-1F733CB346FE}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\services\\notemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D8B9E1D-5594-42A0-AFE2-1F733CB346FE}|NotesApp\\NotesApp.csproj|c:\\users\\snuffle\\source\\repos\\notesapp\\notesapp\\converters\\windowmarginconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D8B9E1D-5594-42A0-AFE2-1F733CB346FE}|NotesApp\\NotesApp.csproj|solutionrelative:notesapp\\converters\\windowmarginconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowMarginConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Snuffle\\source\\repos\\NotesApp\\NotesApp\\Converters\\WindowMarginConverter.cs",
+              "RelativeDocumentMoniker": "NotesApp\\Converters\\WindowMarginConverter.cs",
+              "ToolTip": "C:\\Users\\Snuffle\\source\\repos\\NotesApp\\NotesApp\\Converters\\WindowMarginConverter.cs",
+              "RelativeToolTip": "NotesApp\\Converters\\WindowMarginConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T12:00:19.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NoteManager.cs",
+              "DocumentMoniker": "C:\\Users\\Snuffle\\source\\repos\\NotesApp\\NotesApp\\Services\\NoteManager.cs",
+              "RelativeDocumentMoniker": "NotesApp\\Services\\NoteManager.cs",
+              "ToolTip": "C:\\Users\\Snuffle\\source\\repos\\NotesApp\\NotesApp\\Services\\NoteManager.cs",
+              "RelativeToolTip": "NotesApp\\Services\\NoteManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwB0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:46:16.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\Snuffle\\source\\repos\\NotesApp\\NotesApp\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "NotesApp\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\Snuffle\\source\\repos\\NotesApp\\NotesApp\\Models\\Note.cs",
+              "RelativeToolTip": "NotesApp\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:44:29.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Snuffle\\source\\repos\\NotesApp\\NotesApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "NotesApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Snuffle\\source\\repos\\NotesApp\\NotesApp\\App.xaml.cs",
+              "RelativeToolTip": "NotesApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:43:24.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Snuffle\\source\\repos\\NotesApp\\NotesApp\\App.xaml",
+              "RelativeDocumentMoniker": "NotesApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Snuffle\\source\\repos\\NotesApp\\NotesApp\\App.xaml",
+              "RelativeToolTip": "NotesApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-01T08:43:15.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Snuffle\\source\\repos\\NotesApp\\NotesApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NotesApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Snuffle\\source\\repos\\NotesApp\\NotesApp\\MainWindow.xaml",
+              "RelativeToolTip": "NotesApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-01T08:40:25.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Snuffle\\source\\repos\\NotesApp\\NotesApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NotesApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Snuffle\\source\\repos\\NotesApp\\NotesApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NotesApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAADwv+4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T08:40:21.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
