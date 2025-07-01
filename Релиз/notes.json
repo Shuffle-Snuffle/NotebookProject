@@ -1,0 +1,22 @@
+[
+  {
+    "Title": "1",
+    "Content": "",
+    "Category": "ГРУ",
+    "Attachments": [],
+    "CreatedAt": "2025-07-02T05:50:43.4022881+07:00",
+    "HighlightColor": "#FF7CFC00",
+    "HighlightColorHex": "#FF7CFC00"
+  },
+  {
+    "Title": "2",
+    "Content": "пистолет",
+    "Category": "ЦРУ",
+    "Attachments": [
+      "Attachments\\2\\Блокнот Сабылин, Волос.drawio.png"
+    ],
+    "CreatedAt": "2025-07-02T05:50:43.7774569+07:00",
+    "HighlightColor": "#FFFFA500",
+    "HighlightColorHex": "#FFFFA500"
+  }
+]
